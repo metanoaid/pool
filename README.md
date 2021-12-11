@@ -82,6 +82,8 @@ NB: Проверить качество коммутации и работосп
 Фотографии
 -----------------
 
-https://photos.google.com/share/AF1QipOCr5RAF-Z0fovY3tcG8dbaPb0aOis_RRENew-U1CVwQfygSJ-PytHk-D0tpMtdnQ?key=RlFCNzYwZkl6V3piYlFYNmFYTkRMUTd6LWFibVBR
+ [Ссылка на Google Photo](https://photos.google.com/share/AF1QipOCr5RAF-Z0fovY3tcG8dbaPb0aOis_RRENew-U1CVwQfygSJ-PytHk-D0tpMtdnQ?key=RlFCNzYwZkl6V3piYlFYNmFYTkRMUTd6LWFibVBR "pool")
+
+
 
 [pool]: https://github.com/metanoaid/pool/blob/main/pool_simple.png "Упрощенное состояние бассейна"
