@@ -82,6 +82,10 @@ NB: Проверить качество коммутации и работосп
 Фотографии
 -----------------
 
- [Ссылка на Google Photo](https://photos.google.com/share/AF1QipOCr5RAF-Z0fovY3tcG8dbaPb0aOis_RRENew-U1CVwQfygSJ-PytHk-D0tpMtdnQ?key=RlFCNzYwZkl6V3piYlFYNmFYTkRMUTd6LWFibVBR "pool")
+[Ссылка на Google Photo: Arduino](https://photos.google.com/share/AF1QipOCr5RAF-Z0fovY3tcG8dbaPb0aOis_RRENew-U1CVwQfygSJ-PytHk-D0tpMtdnQ?key=RlFCNzYwZkl6V3piYlFYNmFYTkRMUTd6LWFibVBR "arduino")
+
+[Ссылка на Google Photo: Бассейн](https://photos.google.com/album/AF1QipOj8EZh8wKozGIfbtNceTVzqtCJXmouEX5n2gmZ "pool")
+ 
+
 
 [pool]: https://github.com/metanoaid/pool/blob/main/pool_simple.png "Упрощенное состояние бассейна"
